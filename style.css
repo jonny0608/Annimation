@@ -65,17 +65,17 @@ body {
     justify-content: space-between;
     margin: 0 auto;
     padding: 90px 0 0;
-    width: 90px;
-    height: 20px;
+    width: 120px;
+    height: 70px;
 }
 
 #spooky #body #eyes:before,
 #spooky #body #eyes:after {
     content: ' ';
     display: block;
-    width: 30px;
-    height: 30px;
-    background: #252c49;
+    width: 60px;
+    height: 90px;
+    background: #cf9a27;
     border-radius: 50%;
 }
 
